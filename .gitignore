@@ -1,0 +1,4 @@
+
+# Repo for mlir files reduced to llvmir
+*.ll
+
