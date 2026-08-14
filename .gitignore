@@ -2,3 +2,6 @@
 # Repo for mlir files reduced to llvmir
 *.ll
 
+# Lowered mlir files
+*-lowered.mlir
+
